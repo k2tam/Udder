@@ -16,6 +16,8 @@ struct ContentView: View {
             Text("UDDER")
             
             Image(systemName: "apple.logo")
+            
+            Text("Milk design")
         }
         .padding()
     }
