@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("UDDER")
+            
+            Image(systemName: "apple.logo")
         }
         .padding()
     }
